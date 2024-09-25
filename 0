@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Infinity ARG</title>
+    <style>
+        body {
+            background-color: #0a0b13;
+            color: #c3c6c9;
+            font-family: 'Courier New', Courier, monospace;
+        }
+        .textbox {
+            background-color: #006666;
+            padding: 20px;
+            color: #c3c6c9;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+        .textbox::placeholder {
+            color: #c3c6c9;
+        }
+        .post {
+            margin: 50px 0;
+            padding: 20px;
+            border: 1px solid #333;
+            border-radius: 5px;
+            background-color: #1a1a2e;
+        }
+        .hidden-code {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="textbox">
+        <p>Endless lines of shifting code, in infinity's grip, secrets erode.</p>
+    </div>
+
+    <div class="post">
+        <h2>1</h2>
+        <p>
+            Welcome to the beginning. Infinity starts here. Nothing ends, and nothing truly begins. 
+            Seek deeper, for hidden in the lines lies more than meets the eye.
+        </p>
+        <div class="hidden-code">
+            <!-- First hidden code: a93b2 -->
+        </div>
+    </div>
+
+</body>
+</html>
